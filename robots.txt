@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-qscu9y.indocuan-vip.sbs/sitemap.xml
